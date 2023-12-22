@@ -1,10 +1,3 @@
----
-presentation:
-  width: 800
-  height: 600
----
-
-<!-- slide -->
 
 Your slides goes here...
 
@@ -18,6 +11,9 @@ API gateway** and **lambda**  using **python**
 
 
 1. we start by create function in lambda page and choose as shown below
+![create function in lambda](https://github.com/MhmedRjb/photos/blob/fc3a66975ca80c545a626b1aa8e5ebed22632271/Untitled.jpg?raw=true)  
 
 2. in lambda page you have a code area and diagram/JSON describe the function the implementation
+click in **add trigger** 
+
 
