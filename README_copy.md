@@ -276,9 +276,7 @@
         after intgrate it with the lambda now it is 
         ### ready to run 
         https://0****hm*y8.execute-api.us-east-1.amazonaws.com/default/?action=stop
-
         https://0****hm*y8.execute-api.us-east-1.amazonaws.com/default/?action=atate
-        
         https://0****hm*y8.execute-api.us-east-1.amazonaws.com/default/?action=start
         
         
